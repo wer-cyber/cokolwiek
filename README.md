@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://wer-cyber.github.io/cokolwiek/
-- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vTaY_P9MKReZIJFObxsZpnNULBMQRi3qO_y1DypePhPVHIWhzWCGllWqMFbbnDGrD4fM5SLU-fUYsiu/pubhtml
+- Google Sheets template https://docs.google.com/spreadsheets/d/1fYoREBL2-ghD740tXclJHSEtiHoDbE8BNM5j4Q7JwdU/edit#gid=1033046795
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
